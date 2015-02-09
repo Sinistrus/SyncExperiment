@@ -6,6 +6,7 @@ public class HelloWorld {
 	//tested from tablet to PC, still works. Now must test from PC to tablet.
 	//still works so far. Great!
 	//Final test
+	//almost done
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
